@@ -1,10 +1,11 @@
 <h1 align="center">Hi there, I'm Dan 👋</h1>
 
 <p align="center">
-  <em>Founder & developer building tools that make shipping software less painful.</em>
+  <em>Founder & CEO of <a href="https://www.speekl.com/">Speekl</a> — building AI that helps people speak new languages with confidence.</em>
 </p>
 
 <p align="center">
+  <a href="https://www.speekl.com/"><img src="https://img.shields.io/badge/Speekl-Founder_&_CEO-6C63FF?style=flat-square&logo=rocket&logoColor=white" alt="Speekl"></a>
   <a href="https://danzabrotski.com/"><img src="https://img.shields.io/badge/Website-danzabrotski.com-1e2327?style=flat-square&logo=safari&logoColor=white" alt="Website"></a>
   <a href="https://www.linkedin.com/in/dantechceo/"><img src="https://img.shields.io/badge/LinkedIn-dantechceo-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://x.com/dantechceo"><img src="https://img.shields.io/badge/X-@dantechceo-000000?style=flat-square&logo=x&logoColor=white" alt="X"></a>
@@ -15,8 +16,10 @@
 
 ### 🚀 About me
 
+- 🎙️ Founder & CEO of **[Speekl](https://www.speekl.com/)** ([speekl.ai](https://speekl.ai/)) — a personal AI language tutor for real, voice-first conversations. Loved by 20,000+ learners across 25+ languages.
 - 🏗️ Building **[Traque](https://github.com/traque-dev)** — error and event tracking for startups.
 - 🛠️ Also working on open-source developer tools like **better-activity** and **i18n-email**.
+- 💙 I live and breathe **TypeScript** across the full stack — from SDKs to backends to frontends.
 - 🌎 Based in the United States.
 
 ---
